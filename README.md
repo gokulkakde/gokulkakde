@@ -4,8 +4,10 @@
 
 I like to build **cool ❄️ and unique ✨ stuff**
 
-### 🛠️ Currently Learning
+### 🛠️ Skills
 
+- C/C++
+- Python
 - JavaScript → React → MERN
 - Data Structures & Algorithms
 - Backend & APIs
@@ -25,6 +27,7 @@ and turning ideas into things people can actually use.
 - GitHub: You're already here 😄 [but in case...](https://github.com/gokulkakde)
 - LinkedIn: [Click here](https://in.linkedin.com/in/gokulkakde)
 - Portfolio: [Portfolio link](https://gokulporfolio.vercel.app/)
+- Email: gokulkakde0@gmail.com
 
 ---
 
