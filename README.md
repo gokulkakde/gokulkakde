@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Gokul 👋
 
-<!--
-**gokulkakde/gokulkakde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer
 
-Here are some ideas to get you started:
+I like to build **cool ❄️ and unique ✨ stuff**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Currently Learning
+
+- JavaScript → React → MERN
+- Data Structures & Algorithms
+- Backend & APIs
+- Cloud & DevOps
+
+### 🚀 What I'm Working On
+
+Building projects, improving my problem-solving skills,  
+and turning ideas into things people can actually use.
+
+### 💡 My Approach
+
+> Learn → Build → Break → Fix → Improve
+
+### 📫 Connect With Me
+
+- GitHub: You're already here 😄 [but in case...](https://github.com/gokulkakde)
+- LinkedIn: [Click here](https://in.linkedin.com/in/gokulkakde)
+
+---
+
+⭐ **I don't just want to learn technology — I want to create with it.**
